@@ -1,0 +1,34 @@
+body{
+    background : skyblue;
+    font : 12px;
+    font-style : Italics;
+    font-family: 'Lobster',cursive;
+    color: blue;
+    align:center;
+  }
+  
+  #sun{
+    width: 500px;
+    height: 300px;
+    margin: 0px;
+    padding-right:500px;
+    
+  }
+  
+  #earth{
+    width:500px;
+    height:500px;
+     }
+  h1{
+    font-decoration : underline;
+    font-style : bold;
+    color : blue;
+    aling : center;
+    background: aqua;
+    
+  }
+  
+  #i1{
+    height:500px;
+    width:500px;
+  }
